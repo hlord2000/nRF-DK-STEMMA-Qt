@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nRF-DK-Connector_PinSocket_2.54mm")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/nRF-DK-Connector_PinSocket_2.54mm.pretty")(options "")(descr ""))
+  (lib (name "nRF-DK-Button_Switch_SMD")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/nRF-DK-Button_Switch_SMD.pretty")(options "")(descr ""))
+  (lib (name "nRF-DK-Connector_JST")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/nRF-DK-Connector_JST.pretty")(options "")(descr ""))
+)
